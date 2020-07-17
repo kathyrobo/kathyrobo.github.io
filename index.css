@@ -1,0 +1,68 @@
+
+.top-header{
+    text-align:center;
+    background:black
+    ;
+    color:pink;
+    padding:90px;
+}
+
+.bar {
+	background:black;
+	overflow:hidden;
+}
+body{
+    background-color: pink
+}
+.bar a{
+     color:pink;
+     display:block;
+     padding:14px 20px;
+     float:left;
+     text-align:center;
+}
+.bar a.active{
+    background-color: white;
+
+}
+.topp{
+    color:pink;
+
+}
+.picture{
+    margin-right: 50px;
+    height:9.5em;
+    width:14em;
+}
+.picture2{
+    margin-right: 50px;
+    height:14.4em;
+    width:18em;
+}
+.aboutme{
+    margin:5em;
+
+}
+
+p{
+    color:black;
+}
+h3{
+    color:black;
+}
+
+.image{
+    height:8em;
+    width:6em;
+}
+
+.post{
+
+	margin:5em;
+}
+
+.white{
+    height:4.5px;
+    width:100%;
+    background:pink;
+}
